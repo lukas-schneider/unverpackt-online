@@ -17,9 +17,10 @@ interface Category {
 }
 
 const inputFilePath = path.join(__dirname, 'input', 'products.csv');
-const outputFilePath = path.join(__dirname,'output', 'products.json');
+const outputDirPath = path.join(__dirname,'output');
+fs.mkdirSync(outputDirPath);
 
-fs.mkdirSync(outputFilePath);
+const outputFilePath = path.join(outputDirPath, 'products.json');
 
 const categories: Category[] = [];
 let currentCategory: Category | null = null;
