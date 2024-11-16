@@ -8,7 +8,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "check": "svelte-check --tsconfig tsconfig.json && tsc -p tsconfig.node.json",
-    "ci": "npm run build --base $GITHUB_PAGES_BASE_URL"
+    "ci": "vite build --base $GITHUB_PAGES_BASE_URL"
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^4.0.0",
