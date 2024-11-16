@@ -1,0 +1,380 @@
+id,name,pricePerItem,pricePer100g,amount,unit,totalPrice
+,MEHL , Preis pro Stück, Preis pro 100g,Bestellmenge,Einheit, Gesamtpreis
+1,Buchweizenmehl Vollkorn bio,,"  0,64 € ",,Gramm,  -   € 
+1,Dinkelmehl Type 1050 bio,,"  0,30 € ",,Gramm,  -   € 
+1,Dinkelmehl Type 630 bio,,"  0,30 € ",,Gramm,  -   € 
+1,Dinkelvollkornmehl bio,,"  0,30 € ",,Gramm,  -   € 
+1,Glutenfreie Brot Backmischung 500g bio,"  4,20 € ",,,Stück,  -   € 
+1,Glutenfreie Brötchen Backmischung 500g bio,"  3,99 € ",,,Stück,  -   € 
+1,Glutenfreier Mehlmix Kuchen 500g Packung bio,"  4,99 € ",,,Stück,  -   € 
+1,"Kokosmehl fein, 250g Packung bio","  3,99 € ",,,Stück,  -   € 
+1,"Leinmehl, 250g Packung bio","  3,99 € ",,,Stück,  -   € 
+1,Maisstärke bio,,"  0,53 € ",,Gramm,  -   € 
+1,"Mandelmehl, 250 g  Packung bio","  8,99 € ",,,Stück,  -   € 
+1,Paniermehl Dinkel 200g Packung bio,"  2,40 € ",,,Stück,  -   € 
+1,"Paniermehl Weizen 200g Packung,bio","  2,10 € ",,,Stück,  -   € 
+1,"Roggenmehl Type 1150,bio",,"  0,23 € ",,Gramm,  -   € 
+1,"Roggenvollkornmehl,bio",,"  0,23 € ",,Gramm,  -   € 
+1,"Weizenmehl Type 1050, bio",,"  0,23 € ",,Gramm,  -   € 
+1,"Weizenmehl Type 550,bio",,"  0,23 € ",,Gramm,  -   € 
+1,"Weizenmehl Vollkorn, bio",,"  0,23 € ",,Gramm,  -   € 
+,GETREIDE, Preis pro Stück, Preis pro 100g,Bestellmenge,Einheit, Gesamtpreis
+2,Amaranth  bio,,"  0,50 € ",,Gramm,  -   € 
+2,"Buchweizen ganz,  bio",,"  0,60 € ",,Gramm,  -   € 
+2,Bulgur medium bio,,"  0,45 € ",,Gramm,  -   € 
+2,Couscous Vollkorn bio,,"  0,45 € ",,Gramm,  -   € 
+2,Dinkel Pur - ganzes Korn bio,,"  0,38 € ",,Gramm,  -   € 
+2,Dinkelvollkorngrieß bio,,"  0,55 € ",,Gramm,  -   € 
+2,Gersten- Graupen bio,,"  0,40 € ",,Gramm,  -   € 
+2,Grünkern Pur (holzdedarrt)bio,,"  0,99 € ",,Gramm,  -   € 
+2,Hartweizengrieß Vollkorn bio,,"  0,39 € ",,Gramm,  -   € 
+2,Hirse bio,,"  0,50 € ",,Gramm,  -   € 
+2,Maisgrieß  bio,,"  0,45 € ",,Gramm,  -   € 
+2,Nackthafer bio,,"  0,57 € ",,Gramm,  -   € 
+2,Quinoa tricolore bio,,"  1,60 € ",,Gramm,  -   € 
+,REIS, Preis pro Stück, Preis pro 100g,Bestellmenge,Einheit, Gesamtpreis
+3,Basmatireis natur  bio,,"  0,88 € ",,Gramm,  -   € 
+3,"Basmatireis weiß ,bio",,"  0,65 € ",,Gramm,  -   € 
+3,Dinkel Reis (geschliffenes Dinkelkorn) bio,,"  0,50 € ",,Gramm,  -   € 
+3,"Langkornreis natur (Spitzenreis) ,bio",,"  0,43 € ",,Gramm,  -   € 
+3,Milchreis weiß (Spitzenreis) bio,,"  0,45 € ",,Gramm,  -   € 
+3,Parboiled Reis  bio,,"  0,60 € ",,Gramm,  -   € 
+3,Risotto Reis Arborio bio,,"  0,60 € ",,Gramm,  -   € 
+,NUDELN, Preis pro Stück, Preis pro 100g,Bestellmenge,Einheit, Gesamtpreis
+4,Bandnudeln Nudelwerkstatt (Dinkelgrieß)  bio - Natur - handgemacht,,"  1,10 € ",,Gramm,  -   € 
+4,Bandnudeln Nudelwerkstatt (Dinkelgrieß)  bio - Paprika - handgemacht,,"  1,10 € ",,Gramm,  -   € 
+4,Bandnudeln Nudelwerkstatt (Dinkelgrieß)  bio - Zitrone - handgemacht,,"  1,10 € ",,Gramm,  -   € 
+4,"Lasagneblätter (Weizen), bio",,"  0,99 € ",,Gramm,  -   € 
+4,"Penne Dinkel hell,bio",,"  0,78 € ",,Gramm,  -   € 
+4,"Penne Dinkel Vollkorn ,bio",,"  0,74 € ",,Gramm,  -   € 
+4,Spaghetti (Weizen) hell bio,,"  0,46 € ",,Gramm,  -   € 
+4,Spaghetti Nudelwerkstatt(Dinkelgrieß) bio - Kurkuma - handgemacht,,"  1,10 € ",,Gramm,  -   € 
+4,Spaghetti Nudelwerkstatt(Dinkelgrieß) bio - Spinat - handgemacht,,"  1,10 € ",,Gramm,  -   € 
+4,Spaghetti (Weizen) Vollkorn bio,,"  0,43 € ",,Gramm,  -   € 
+4,Spiralen hell (Weizen) bio,,"  0,46 € ",,Gramm,  -   € 
+4,"Spiralen Vollkorn (Weizen), bio",,"  0,51 € ",,Gramm,  -   € 
+4,Spirelli Dinkel Demeter bio,,"  0,65 € ",,Gramm,  -   € 
+4,Strozzapreti aus roten Linsen bio,,"  1,47 € ",,Gramm,  -   € 
+4,Suppennudeln bio (Fädle) -Weizen,,"  0,37 € ",,Gramm,  -   € 
+,MÜSLI/ FLOCKEN, Preis pro Stück, Preis pro 100g,Bestellmenge,Einheit, Gesamtpreis
+5,"Cornflakes ohne Zucker, bio",,"  0,80 € ",,Gramm,  -   € 
+5,"Crunchy Feinschmecker(Mandel, Nuss) bio",,"  1,49 € ",,Gramm,  -   € 
+5,"Crunchy Hafer (mit Agavendicksaft) ,bio",,"  0,85 € ",,Gramm,  -   € 
+5,Crunchy Himbeer mit Kokos bio,,"  1,45 € ",,Gramm,  -   € 
+5,Crunchy Schoko mit Kokos+Banane bio,,"  1,07 € ",,Gramm,  -   € 
+5,"Dinkelflocken, bio",,"  0,42 € ",,Gramm,  -   € 
+5,Dinkelpops mit Agavendicksaft bio,,"  1,25 € ",,Gramm,  -   € 
+5,"Haferflocken fein Vollkorn, bio",,"  0,32 € ",,Gramm,  -   € 
+5,Haferflocken grob Vollkorn bio,,"  0,32 € ",,Gramm,  -   € 
+5,Müsli Basis mit Weinbeeren bio,,"  0,40 € ",,Gramm,  -   € 
+5,Müsli Nuss/Kokos/Saaten ohne Trockenfrüchte bio,,"  0,79 € ",,Gramm,  -   € 
+5,"Porridge Apfel&Zimt mit Quinoa, bio",,"  0,78 € ",,Gramm,  -   € 
+,NÜSSE/ SAATEN, Preis pro Stück, Preis pro 100g,Bestellmenge,Einheit, Gesamtpreis
+6,"Cashewbruch, naturbelassen bio",,"  2,24 € ",,Gramm,  -   € 
+6,Chiasamen Salvia hispanica/schwarz bio,,"  1,48 € ",,Gramm,  -   € 
+6,Erdnüsse gesalzen 160g Glas bio inkl. Pfand,"  3,45 € ",,,Stück,  -   € 
+6,Erdnüsse süß pikant gewürzt 125 g Glas bio inkl. Pfand,"  3,80 € ",,,Stück,  -   € 
+6,"Flohsamen ganz,  bio",,"  1,50 € ",,Gramm,  -   € 
+6,Hanfsamen geschält Dose 500g bio,"  13,80 € ",,,Stück,  -   € 
+6,"Haselnusskerne ganz ,bio",,"  2,45 € ",,Gramm,  -   € 
+6,Haselnusskerne gehackt geröstet bio,,"  2,25 € ",,Gramm,  -   € 
+6,"Kokoschips geröstet, ungesüßt bio",,"  1,99 € ",,Gramm,  -   € 
+6,Kürbiskerne dunkelgrün Europa bio,,"  2,45 € ",,Gramm,  -   € 
+6,"Leinsaat ganz, braun aus Europa bio",,"  0,55 € ",,Gramm,  -   € 
+6,Mandeln braun bio,,"  2,55 € ",,Gramm,  -   € 
+6,Pinienkerne bio,,"  4,50 € ",,Gramm,  -   € 
+6,Pistazien grün mit Haut bio,,"  5,20 € ",,Gramm,  -   € 
+6,Sesam bio,,"  0,99 € ",,Gramm,  -   € 
+6,Sonnenblumenkerne aus Europa bio,,"  0,51 € ",,Gramm,  -   € 
+6,Studentenfutter mit Cranberries mit Pekanusskernen bio,,"  1,70 € ",,Gramm,  -   € 
+6,Walnussbruch(Europa) bio,,"  1,75 € ",,Gramm,  -   € 
+,GEWÜRZE, Preis pro Stück, Preis pro 100g,Bestellmenge,Einheit, Gesamtpreis
+7,Ayurveda Frühstückszauber bio,,"  5,91 € ",,Gramm,  -   € 
+7,"Basilikum gerebelt ,bio",,"  1,90 € ",,Gramm,  -   € 
+7,Bratkartoffelgewürz bio,,"  5,91 € ",,Gramm,  -   € 
+7,Café de Paris Gewürzmischung bio,,"  5,91 € ",,Gramm,  -   € 
+7,Chiliflocken bio,,"  3,32 € ",,Gramm,  -   € 
+7,Curry Indisch bio,,"  5,33 € ",,Gramm,  -   € 
+7,"Curry Lemon,bio",,"  5,52 € ",,Gramm,  -   € 
+7,"Curry Thai rot , scharf bio",,"  5,54 € ",,Gramm,  -   € 
+7,Dillspitzen getrocknet bio,,"  4,03 € ",,Gramm,  -   € 
+7,"Fenchelsamen,bio",,"  3,69 € ",,Gramm,  -   € 
+7,Fruity Tofu Gewürz bio,,"  5,20 € ",,Gramm,  -   € 
+7,Glühweingewürz bio,,"  5,52 € ",,Gramm,  -   € 
+7,Ingwer gemahlen bio,,"  4,43 € ",,Gramm,  -   € 
+7,"Knoblauchgranulat getrocknet,bio",,"  2,90 € ",,Gramm,  -   € 
+7,"Kräuter der Provence,bio",,"  4,50 € ",,Gramm,  -   € 
+7,Kräuterbutter Gewürz bio,,"  4,99 € ",,Gramm,  -   € 
+7,Kräutersalz bio,,"  2,74 € ",,Gramm,  -   € 
+7,Kreuzkümmel gemahlen bio,,"  4,90 € ",,Gramm,  -   € 
+7,"Kümmel ganz ,bio",,"  2,21 € ",,Gramm,  -   € 
+7,Kurkuma bio,,"  1,99 € ",,Gramm,  -   € 
+7,Liebstöckel gerebelt  bio,,"  5,90 € ",,Gramm,  -   € 
+7,Lorbeerblätter bio,,"  4,77 € ",,Gramm,  -   € 
+7,Magic Bacon bio,,"  5,80 € ",,Gramm,  -   € 
+7,"Majoran gerebelt ,bio",,"  3,69 € ",,Gramm,  -   € 
+7,"Muskatnuss ganz ,bio",,"  8,86 € ",,Gramm,  -   € 
+7,"Oregano gerebelt ,bio",,"  2,90 € ",,Gramm,  -   € 
+7,Paprikapulver scharf  geräuchert  bio,,"  3,90 € ",,Gramm,  -   € 
+7,Paprikapulver ungarisch edelsüß bio,,"  2,50 € ",,Gramm,  -   € 
+7,Petersilie getrocknet bio,,"  5,87 € ",,Gramm,  -   € 
+7,Pfeffer bunt ganz bio,,"  5,50 € ",,Gramm,  -   € 
+7,Pfeffer schwarz bio,,"  2,99 € ",,Gramm,  -   € 
+7,"Pfeffer weiß,bio",,"  7,37 € ",,Gramm,  -   € 
+7,Pizzagewürz bio,,"  3,99 € ",,Gramm,  -   € 
+7,Pommessalz bio,,"  2,80 € ",,Gramm,  -   € 
+7,Rosmarin geschnitten bio,,"  4,03 € ",,Gramm,  -   € 
+7,Salz Meersalz grob Sel Marin,,"  0,45 € ",,Gramm,  -   € 
+7,Salz rosa Kristallsalz grob  ,,"  0,50 € ",,Gramm,  -   € 
+7,Salz Ur-Steinsalz fein ,,"  0,20 € ",,Gramm,  -   € 
+7,"Schnittlauch,bio",,"  8,12 € ",,Gramm,  -   € 
+7,Thymian gerebelt bio,,"  4,40 € ",,Gramm,  -   € 
+7,"Wacholderbeeren ,bio",,"  3,50 € ",,Gramm,  -   € 
+7,Zimt Ceylon  bio,,"  3,90 € ",,Gramm,  -   € 
+7,Zimtstangen Ceylon bio,,"  9,23 € ",,Gramm,  -   € 
+7,Zwiebeln geschnitten  bio,,"  1,99 € ",,Gramm,  -   € 
+,TEE, Preis pro Stück, Preis pro 100g,Bestellmenge,Einheit, Gesamtpreis
+8,Eistee Cold Brew Mango-Maracuja(Schwarzer Tee) bio,,"  4,60 € ",,Gramm,  -   € 
+8,Eistee Cold Brew Zirone(Schwarzer Tee) bio,,"  4,60 € ",,Gramm,  -   € 
+8,Eistee Cold Brew Pfirsisch (Schwarzer Tee)bio,,"  4,60 € ",,Gramm,  -   € 
+8,Fenchel-Anis-Kümmel bio,,"  2,85 € ",,Gramm,  -   € 
+8,Früchtetee Hibiskus  bio,,"  3,20 € ",,Gramm,  -   € 
+8,"Früchtetee Power,bio",,"  3,50 € ",,Gramm,  -   € 
+8,"Früchtetee Schlaftee(Orange, Vanille) ,bio",,"  4,00 € ",,Gramm,  -   € 
+8,Früchtetee Waldfrucht pur 100g bio,,"  3,20 € ",,Gramm,  -   € 
+8,Gewürztee Ayurveda kapha  bio,,"  3,80 € ",,Gramm,  -   € 
+8,Gewürztee Chai  bio,,"  4,10 € ",,Gramm,  -   € 
+8,Grüntee China Jasmin bio,,"  4,00 € ",,Gramm,  -   € 
+8,Grüntee Japan Bancha  bio ,,"  4,00 € ",,Gramm,  -   € 
+8,Grüntee Japan Sencha Fuji   bio,,"  8,31 € ",,Gramm,  -   € 
+8,Kamille bio,,"  4,30 € ",,Gramm,  -   € 
+8,Kräutertee Magenruhe bio,,"  3,99 € ",,Gramm,  -   € 
+8,Kräutertee Würziger Kräuterkessel bio,,"  3,40 € ",,Gramm,  -   € 
+8,Minze frisch bio,,"  2,80 € ",,Gramm,  -   € 
+8,Rooibos  bio,,"  2,75 € ",,Gramm,  -   € 
+8,Schwarztee Assam FTGFOP Chardwar bio,,"  2,75 € ",,Gramm,  -   € 
+8,Schwarztee Darjeeling FTGFOP 2ND Flush Blend bio,,"  4,00 € ",,Gramm,  -   € 
+,KAFEE/ KAFFEE-ERSATZ/ KAKAO, Preis pro Stück, Preis pro 100g,Bestellmenge,Einheit, Gesamtpreis
+9,Brasilien Fazenda Camocim bio Demeter (ganze Bohne) auch für Espresso geeignet,,"  3,10 € ",,Gramm,  -   € 
+9,Kakao pur(10-12%) stark entölt bio,,"  2,25 € ",,Gramm,  -   € 
+9,Lupinenkaffee 250 g Packung koffeinfrei ,"  6,99 € ",,,Stück,  -   € 
+9,Peru Grade 1 Kuelap Especial bio (ganze Bohne) auch für Espresso geeignet,,"  2,80 € ",,Gramm,  -   € 
+,SOSSEN/ DIPS/ SONSTIGES, Preis pro Stück, Preis pro 100g,Bestellmenge,Einheit, Gesamtpreis
+10,Apfel-Mangomark 360g Glas bio,"  2,65 € ",,,Stück,  -   € 
+10,Apfelmark Glas 360g bio,"  1,99 € ",,,Stück,  -   € 
+10,Apfel-Birnemark 360g bio,"  2,65 € ",,,Stück,  -   € 
+10,Aroniamark 230g Glas bio ungesüßt,"  3,20 € ",,,Stück,  -   € 
+10,Aufstrich Zwergenwiese 180g Rucola Tomate,"  3,10 € ",,,Stück,  -   € 
+10,Aufstrich Zwergenwiese 180g Mango Curry,"  3,10 € ",,,Stück,  -   € 
+10,Aufstrich Zwergenwiese 180g Mediteran,"  3,10 € ",,,Stück,  -   € 
+10,Aufstrich Zwergenwiese 160g Bruschesto,"  3,10 € ",,,Stück,  -   € 
+10,"Bruschetta Olive schwarz LaSelva 130 g Glas,bio","  3,99 € ",,,Stück,  -   € 
+10,Bruschetta Tomate Nabio 135 g Glas bio,"  2,85 € ",,,Stück,  -   € 
+10,"Curry-Saté Würz- und Dipsauce Arche 125 g Glas,bio","  2,99 € ",,,Stück,  -   € 
+10,"Currypaste Sanchon Korma 190 g Glas,bio","  3,99 € ",,,Stück,  -   € 
+10,"Currypaste Sanchon Tandorri 190 g Glas,bio","  3,99 € ",,,Stück,  -   € 
+10,Emils Dressing 250ml Flasche Bioland - französische Vinaigrette,"  4,20 € ",,,Stück,  -   € 
+10,Emils Dressing 250ml Flasche Bioland - Honig/ Senf,"  4,20 € ",,,Stück,  -   € 
+10,Emils Dressing 250ml Flasche Bioland - Sylter,"  4,20 € ",,,Stück,  -   € 
+10,Emils Mayonnaise 130 ml Glas vegan Bioland - Aioli,"  3,20 € ",,,Stück,  -   € 
+10,Emils Mayonnaise 130 ml Glas vegan Bioland - Burger&Sandwich,"  3,20 € ",,,Stück,  -   € 
+10,Emils Mayonnaise 130 ml Glas vegan Bioland - Chili,"  3,20 € ",,,Stück,  -   € 
+10,Emils Mayonnaise 130 ml Glas vegan Bioland - Natur,"  3,20 € ",,,Stück,  -   € 
+10,Emils Mayonnaise 130 ml Glas vegan Bioland - Remoulade,"  3,20 € ",,,Stück,  -   € 
+10,Emils Sauce 250ml Flasche Bioland - Chili,"  4,20 € ",,,Stück,  -   € 
+10,Emils Sauce 250ml Flasche Bioland - Knoblauch,"  4,20 € ",,,Stück,  -   € 
+10,Emils Sauce 250ml Flasche Bioland - Mango&Curry,"  4,20 € ",,,Stück,  -   € 
+10,Ketchup Marmeladenmanufaktur 250 ml Flasche - Curry,"  3,50 € ",,,Stück,  -   € 
+10,Ketchup Marmeladenmanufaktur 250 ml Flasche - Tomate,"  3,50 € ",,,Stück,  -   € 
+10,Ketchup Marmeladenmanufaktur 250 ml Flasche - Tomate scharf,"  3,50 € ",,,Stück,  -   € 
+10,Kimchi 270g Glas bio,"  4,60 € ",,,Stück,  -   € 
+10,Maronen ganz 320g Glas bio,"  9,50 € ",,,Stück,  -   € 
+10,Nuss-Nougat-Creme(Bio&So) 250g Glas bio inkl. Pfand,"  5,85 € ",,,Stück,  -   € 
+10,Pesto 130g Basilikum&Schafskäse bio,"  3,99 € ",,,Stück,  -   € 
+10,Pesto 130g Piccante Tomate&Schafskäse,"  3,99 € ",,,Stück,  -   € 
+10,Pesto 130g rucola vegan bio,"  3,99 € ",,,Stück,  -   € 
+10,"Senf mittelscharf 250g Glas,bio inkl. Pfand","  3,30 € ",,,Stück,  -   € 
+10,Senf Emils süss 130ml Bioland,"  2,50 € ",,,Stück,  -   € 
+10,Senf Emils scharf 130ml Bioland,"  2,50 € ",,,Stück,  -   € 
+10,"Sweet&Sour Würz- und Dipsauce Arche 125 g Glas, bio","  2,99 € ",,,Stück,  -   € 
+10,"Gemüsebrühe hefefrei (Pulver) 330g bio, inkl.Pfandglas","  5,05 € ",,,Stück,  -   € 
+10,"Swema Gemüsebrühe 320g Glas(Rohkostqualität), bio","  8,10 € ",,,Stück,  -   € 
+10,"Swema Milde Gemüsebrühe 210g Glas (Rohkostqualität), bio","  6,72 € ",,,Stück,  -   € 
+10,Tomaten Feinstückige LaSelva 690g Flasche bio,"  2,60 € ",,,Stück,  -   € 
+10,Tomaten Passata LaSelva 690g Flasche bio,"  2,60 € ",,,Stück,  -   € 
+10,"Tomaten-Passata (Bio&So) 500g Glas, bio inkl. Pfand","  3,14 € ",,,Stück,  -   € 
+10,"Tomaten-Stückige( Bio&So) 500g Glas, bio inkl. Pfand","  3,14 € ",,,Stück,  -   € 
+10,Tomatenmark 200g Glas bio,"  2,50 € ",,,Stück,  -   € 
+,WASCHEN/ SPÜLEN/ REINIGEN, Preis pro Stück, Preis pro 100g,Bestellmenge,Einheit, Gesamtpreis
+11,Eco Waschball  Stück,"  19,95 € ",,,Stück,  -   € 
+11,Sonett Allesreiniger,,"  0,50 € ",,Gramm,  -   € 
+11,Sonett Bleichkomplex  5kg Packung,"  22,50 € ",,,Stück,  -   € 
+11,Sonett Bleichkomplex 900 g Packung,"  5,50 € ",,,Stück,  -   € 
+11,Sonett Enthärter 1 kg Packung,"  6,10 € ",,,Stück,  -   € 
+11,Sonett Enthärter 5 kg Packung,"  23,00 € ",,,Stück,  -   € 
+11,Sonett Gallseife 100 g Stück,"  1,50 € ",,,Stück,  -   € 
+11,Sonett Geschirrspülmittel  flüssig sensitiv ,,"  0,40 € ",,Gramm,  -   € 
+11,Sonett Handseife flüssig sensitiv ,,"  0,93 € ",,Gramm,  -   € 
+11,Sonett Kernseife 100 g Stück,"  1,30 € ",,,Stück,  -   € 
+11,Sonett Klarspüler ,,"  0,65 € ",,Gramm,  -   € 
+11,Sonett Lavendelwaschmittel flüssig 30-95°C,,"  0,50 € ",,Gramm,  -   € 
+11,"Sonett Olivenwaschmittel flüssig für Wolle und Feines 
+20-40°C",,"  0,60 € ",,Gramm,  -   € 
+11,Sonett Regeneriersalz  2kg Karton,"  3,10 € ",,,Stück,  -   € 
+11,Sonett Spülmaschinensalz 2 kg Packung,"  3,10 € ",,,Stück,  -   € 
+11,"Sonett Waschmittel Pulver Konzentrat 10 kg Packung 
+40-95°C","  47,98 € ",,,Stück,  -   € 
+11,"Sonett Waschmittel Pulver Konzentrat 2,4 kg Packung 
+40-95°C","  14,50 € ",,,Stück,  -   € 
+11,Sonett WC Reiniger ,,"  0,40 € ",,Gramm,  -   € 
+11,Spülbürste Memo Stück,"  2,52 € ",,,Stück,  -   € 
+11,Spülbürstenkopf Memo Stück,"  1,45 € ",,,Stück,  -   € 
+11,Waschsoda  OU 500g Packung,"  2,99 € ",,,Stück,  -   € 
+,ÖL, Preis pro Stück, Preis pro 100g,Bestellmenge,Einheit, Gesamtpreis
+12,"Kokosöl nativ Morgenland 220 ml Glas,bio","  4,10 € ",,,Stück,  -   € 
+12,"Kürbiskernöl DEU, 250 ml Flasche,bio","  11,50 € ",,,Stück,  -   € 
+12,"Leinsamenöl, DEU 250 ml Flasche,bio","  6,99 € ",,,Stück,  -   € 
+12,Mellich Raps- Öl 250 ml Flasche - Basilikum,"  6,90 € ",,,Stück,  -   € 
+12,Mellich Raps- Öl 250 ml Flasche - Chili,"  6,90 € ",,,Stück,  -   € 
+12,Mellich Raps- Öl 250 ml Flasche - Knoblauch,"  6,90 € ",,,Stück,  -   € 
+12,Mellich Raps- Öl 250 ml Flasche- Zitrone,"  6,90 € ",,,Stück,  -   € 
+12,Mellich Rapsöl nativ  500 ml Flasche ,"  8,99 € ",,,Stück,  -   € 
+12,"Olivenöl nativ extra Italien, 500 ml Flasche,bio","  15,95 € ",,,Stück,  -   € 
+12,Sesamöl 250 ml Flasche bio,"  6,99 € ",,,Stück,  -   € 
+12,"Brat-und Backöl HO/LO Demeter 500 ml Flasche,bio","  5,99 € ",,,Stück,  -   € 
+12,Walnussöl 250 ml Flasche bio,"  11,99 € ",,,Stück,  -   € 
+,ESSIG/ SHRUB, Preis pro Stück, Preis pro 100g,Bestellmenge,Einheit, Gesamtpreis
+13,"Aceto Balsamico, 250 ml  Flasche, bio","  5,50 € ",,,Stück,  -   € 
+13,"Condimento Classico Bianco, 250 ml Flasche, bio","  3,99 € ",,,Stück,  -   € 
+13,Shrub  250 ml Flasche - Apfel-Quitte,"  11,90 € ",,,Stück,  -   € 
+13,Shrub  250 ml Flasche - Bärlauch,"  11,90 € ",,,Stück,  -   € 
+13,Shrub  250 ml Flasche - Blutorange,"  11,90 € ",,,Stück,  -   € 
+13,Shrub  250 ml Flasche - Lavendel-Himbeer,"  11,90 € ",,,Stück,  -   € 
+13,Shrub  250 ml Flasche - Ingwer,"  11,90 € ",,,Stück,  -   € 
+13,Shrub  250 ml Flasche - Knoblauch,"  11,90 € ",,,Stück,  -   € 
+13,Shrub  250 ml Flasche - Rosmarin Zitrone,"  11,90 € ",,,Stück,  -   € 
+13,Shrub  250 ml Flasche - Traube rot,"  11,90 € ",,,Stück,  -   € 
+13,Shrub  250 ml Flasche - Zitrone Thymian,"  11,90 € ",,,Stück,  -   € 
+13,Shrub  lose - Apfel-Quitte,,"  2,50 € ",,Gramm,  -   € 
+13,Shrub  lose - Heidelbeer-Himbeer ,,"  2,50 € ",,Gramm,  -   € 
+13,Shrub  lose - Hibiscus-Himbeer,,"  2,50 € ",,Gramm,  -   € 
+13,Shrub  lose - Johannisbeer,,"  2,50 € ",,Gramm,  -   € 
+,GESICHT/ KÖRPER/ HAARE, Preis pro Stück, Preis pro 100g,Bestellmenge,Einheit, Gesamtpreis
+14,Fuss Flott Balsam 50ml Dose,"  9,95 € ",,,Stück,  -   € 
+14,Augenserum 20ml mit Aloe vera +Arganöl,"  16,90 € ",,,Stück,  -   € 
+14,Gesichtcreme 65 ml - rose -,"  15,90 € ",,,Stück,  -   € 
+14,Gesichtcreme 65 ml - sensitiv -,"  15,90 € ",,,Stück,  -   € 
+14,Gesichtcreme 65 ml - frische -,"  15,90 € ",,,Stück,  -   € 
+14,Handbalsam 50ml Dose,"  9,95 € ",,,Stück,  -   € 
+14,Detoxpflegebad 250g Kraft-holzig herber Duft,"  12,90 € ",,,Stück,  -   € 
+14,Detoxpflegebad 250g Glück- leichte Zitrusfrische,"  12,90 € ",,,Stück,  -   € 
+14,Detoxpflegebad 250g Genuss-blumig warmer Duft,"  12,90 € ",,,Stück,  -   € 
+14,Deobalsam 50ml - rose -,"  9,90 € ",,,Stück,  -   € 
+14,Deobalsam 50ml -orange salbei -,"  9,90 € ",,,Stück,  -   € 
+14,Deobalsam 50ml - sensitive -,"  9,90 € ",,,Stück,  -   € 
+14,Duschtaler 75g - Kräuterkraft-,"  9,50 € ",,,Stück,  -   € 
+14,Duschtaler 75g - morgentau- (Orange),"  9,50 € ",,,Stück,  -   € 
+14,Duschtaler 75g - Sonnenlicht- (Zitrone),"  9,50 € ",,,Stück,  -   € 
+14,Duschkugel 75g mit Seil-blumenwiese-,"  10,90 € ",,,Stück,  -   € 
+14,Shampookugel 75g mit Seil-lavendel-,"  10,90 € ",,,Stück,  -   € 
+14,Shampookugel 75g mit Seil-mandarine-,"  10,90 € ",,,Stück,  -   € 
+14,Shampookugel 75g mit Seil-Minze-,"  10,90 € ",,,Stück,  -   € 
+14,Shampookugel 75g mit Seil-Pur-,"  10,90 € ",,,Stück,  -   € 
+14,Shampoo/Duschkugel 2in1 75g mit Seil-sports-,"  10,90 € ",,,Stück,  -   € 
+14,Shampoo/Duschkugel 2in1 75g mit Seil-matcha-,"  10,90 € ",,,Stück,  -   € 
+14,Nasenpflegeöl  20 ml,"  9,50 € ",,,Stück,  -   € 
+14,Rasierseife lose rund 50g Stück,"  5,00 € ",,,Stück,  -   € 
+14,Rasierseife in der Dose 50g,"  6,25 € ",,,Stück,  -   € 
+14,Schietwetter Balsam 10ml,"  3,90 € ",,,Stück,  -   € 
+14,Seifen   70g Stück,"  7,50 € ",,,Stück,  -   € 
+14,Shampoo fest 75g alle Haartypen -Sonne-,"  9,90 € ",,,Stück,  -   € 
+14,Shampoo fest 75g trockenes+lockiges Haar -Ghassoul-,"  9,90 € ",,,Stück,  -   € 
+14,Shampoo fest 75g schuppige+gestresste Kopfhaut-Balance-,"  9,90 € ",,,Stück,  -   € 
+14,Shampoo fest 75g fettiges Haar-Energie-,"  9,90 € ",,,Stück,  -   € 
+14,"Shampoo fest 75g normales,feines+graues Haar-Harmonie-","  9,90 € ",,,Stück,  -   € 
+14,Soapi Stk. (Magnetischer Seifenhalter),"  11,95 € ",,,Stück,  -   € 
+,FLEISCHERSATZ/ HAFERPRODUKTE/ SOJA, Preis pro Stück, Preis pro 100g,Bestellmenge,Einheit, Gesamtpreis
+15,Haferdrinkpulver bio,,"  2,40 € ",,Gramm,  -   € 
+15,Happea Crumbs(Ackerbohnen - und Erbsenprotein) Lasagne/Bolognese bio,,"  3,74 € ",,Gramm,  -   € 
+15,Happea Flakes(Ackerbohnen - und Erbsenprotein) größere Stücke bio,,"  3,74 € ",,Gramm,  -   € 
+15,Happea Hack(Ackerbohnen - und Erbsenprotein) Patties/Frikadellen 80g Glas bio inkl.Pfand,"  4,00 € ",,,Stück,  -   € 
+15,Happea Hack(Ackerbohnen+Erbsenprotein) Patties/Frikadellen 120g Glas bio inkl. Pfand,"  5,90 € ",,,Stück,  -   € 
+15,"Nussbolognese , Pflanzliche Pastasoße  120g Dose bio","  5,80 € ",,,Stück,  -   € 
+15,"Pasta Topping, Pflanzliche Hartkäse-Alternative,125 g,bio inkl. Pfand bio","  5,95 € ",,,Stück,  -   € 
+15,Seitan bio 500g Glas bio,"  6,15 € ",,,Stück,  -   € 
+15,Sojabrocken bio,,"  1,25 € ",,Gramm,  -   € 
+15,Tempeh 500ml Glas bio,"  4,99 € ",,,Stück,  -   € 
+,BACKZUTATEN, Preis pro Stück, Preis pro 100g,Bestellmenge,Einheit, Gesamtpreis
+16,Backhefe trocken bio,,"  18,55 € ",,Gramm,  -   € 
+16,"Bourbon Vanille gemahlen 15 g Glas,bio","  16,80 € ",,,Stück,  -   € 
+16,Kakaonibs roh bio ungesüßt,,"  3,90 € ",,Gramm,  -   € 
+16,Kuvertüre Drops Zartbitter 3-5 mm bio,,"  3,99 € ",,Gramm,  -   € 
+16,Lebensmittelfarbe 6x8g bio,"  7,99 € ",,,Stück,  -   € 
+16,Natron Lebensmittelqualität  bio,,"  0,80 € ",,Gramm,  -   € 
+16,"Schokoladenstreusel, zartbitter 1,9mm bio",,"  3,80 € ",,Gramm,  -   € 
+16,"veganer Ei-Ersatz 175g Dose,bio","  5,99 € ",,,Stück,  -   € 
+16,Weinsteinbackpulver mit Bio-Maisstärke ,,"  0,99 € ",,Gramm,  -   € 
+16,Zitronensäure Lebensmittelqualität ,,"  1,37 € ",,Gramm,  -   € 
+,HÜLSENFRÜCHTE, Preis pro Stück, Preis pro 100g,Bestellmenge,Einheit, Gesamtpreis
+17,Bohnen Kidney rot bio,,"  0,60 € ",,Gramm,  -   € 
+17,Bohnen weiß bio,,"  0,85 € ",,Gramm,  -   € 
+17,Erbsen grün bio,,"  0,40 € ",,Gramm,  -   € 
+17,Kichererbsen bio,,"  0,57 € ",,Gramm,  -   € 
+17,"Linsen Beluga schwarz,bio",,"  0,98 € ",,Gramm,  -   € 
+17,Linsen braun (Berglinsen) bio,,"  0,50 € ",,Gramm,  -   € 
+17,Linsen gelb bio,,"  0,50 € ",,Gramm,  -   € 
+17,Linsen rot bio,,"  0,50 € ",,Gramm,  -   € 
+17,Linsenkicherlinge (Mischung für Bratlinge) bio,,"  1,50 € ",,Gramm,  -   € 
+,TROCKENFRÜCHTE, Preis pro Stück, Preis pro 100g,Bestellmenge,Einheit, Gesamtpreis
+18,Aprikosen getrocknet bio,,"  2,80 € ",,Gramm,  -   € 
+18,"Bananenchips natur gesüßt,bio",,"  1,30 € ",,Gramm,  -   € 
+18,"Cranberries, getrocknet mit Apfeldicksaft bio",,"  2,25 € ",,Gramm,  -   € 
+18,"Datteln Deglet Nour getrocknet & entsteint, bio",,"  1,50 € ",,Gramm,  -   € 
+18,Erdbeeren gefriergetrocknet 35g Glas inkl. Pfand,"  8,75 € ",,,Stück,  -   € 
+18,Himbeeren gefriergetrocknet 45g Glas bio inkl. Pfand,"  8,75 € ",,,Stück,  -   € 
+18,"Mango getrocknet , bio",,"  2,50 € ",,Gramm,  -   € 
+18,"Pflaumen getrocknet , bio",,"  2,80 € ",,Gramm,  -   € 
+18,"Sultaninen 100g,bio",,"  0,95 € ",,Gramm,  -   € 
+18,Tomatenwürfel getrocknet bio,,"  1,70 € ",,Gramm,  -   € 
+,ZUCKER/ ZUCKER-ALTERNATIVEN, Preis pro Stück, Preis pro 100g,Bestellmenge,Einheit, Gesamtpreis
+19,"Agavendicksaft 690 g Flasche,bio inkl. Pfand","  7,95 € ",,,Stück,  -   € 
+19,"Ahornsirup Grad C ,bio",,"  2,41 € ",,Gramm,  -   € 
+19,Gelierzucker mit Apfelpektin bio,,"  0,55 € ",,Gramm,  -   € 
+19,Honeypot Deutscher Honig Alsdorf inkl. Pfand 1€  500g,"  9,90 € ",,,Stück,  -   € 
+19,Honig Glas  500g Wansart Alsdorf,"  7,90 € ",,,Stück,  -   € 
+19,Kokosblütenzucker bio 335g Glas bio inkl. Pfand,"  4,95 € ",,,Stück,  -   € 
+19,"Puderzucker 200g Packung,bio","  2,20 € ",,,Stück,  -   € 
+19,"Rohrohrzucker fein,bio",,"  0,38 € ",,Gramm,  -   € 
+19,Stevia Fluid 50 ml Flasche,"  6,90 € ",,,Stück,  -   € 
+19,Vanillezucker mit echter Bourbon-Vanille bio,,"  6,60 € ",,Gramm,  -   € 
+19,Vollrohrzucker bio,,"  0,49 € ",,Gramm,  -   € 
+19,"Zuckerrübensirup 450g Dose,Demeter","  4,05 € ",,,Stück,  -   € 
+,SÜßES/ SALZIGES, Preis pro Stück, Preis pro 100g,Bestellmenge,Einheit, Gesamtpreis
+20,Choko-lini mini Schokolinsen Ökovital bio,,"  2,17 € ",,Gramm,  -   € 
+20,Cola Flaschen Fruchtgummi bio,,"  1,85 € ",,Gramm,  -   € 
+20,Fairfood cashews Curry&Meersalz  bio,,"  3,20 € ",,Gramm,  -   € 
+20,Fairfood Cashews Rosmarin&Thymian  bio,,"  3,20 € ",,Gramm,  -   € 
+20,Fairfood Freiburger Nussmischung  bio,,"  3,20 € ",,Gramm,  -   € 
+20,Frutti Worms sauer Fruchtgummi vegan bio,,"  1,85 € ",,Gramm,  -   € 
+20,Gummibärchen vegan  bio,,"  1,85 € ",,Gramm,  -   € 
+20,Lakritzschnecken vegan bio,,"  1,75 € ",,Gramm,  -   € 
+20,Pretzels  würzige Tomate bio,,"  2,75 € ",,Gramm,  -   € 
+20,Pretzels Honig&Senf bio,,"  2,75 € ",,Gramm,  -   € 
+20,"Schoko Dinkel-Vollkorn Cookies Demeter,bio",,"  1,95 € ",,Gramm,  -   € 
+,HYGIENE/ ZAHNPFLEGE, Preis pro Stück, Preis pro 100g,Bestellmenge,Einheit, Gesamtpreis
+21,Denttabs Zahnputztablette mit Fluorid 125 Stk Packung,"  5,99 € ",,,Stück,  -   € 
+21,Denttabs Zahnputztablette ohne Fluorid 125 Stk Packung,"  5,99 € ",,,Stück,  -   € 
+21,Kinderzahncreme(Maus) 75 ml mit Fluorid - Aprikose -,"  3,90 € ",,,Stück,  -   € 
+21,Zahnpasta im Glas Spearmint ohne Fluorid 100ml,"  9,90 € ",,,Stück,  -   € 
+21,Zahnpasta im Glas Kokosnuss mit Fluorid 100ml,"  9,90 € ",,,Stück,  -   € 
+21,Zahnbürste Bambus super soft,"  3,20 € ",,,Stück,  -   € 
+21,Zahnbürste Bambus mittel ,"  3,20 € ",,,Stück,  -   € 
+21,Kinderzahnbürste Bambus weich,"  2,75 € ",,,Stück,  -   € 
+21,Zahnseide im Gläschen,"  4,60 € ",,,Stück,  -   € 
+21,Zahnseide -Nachfüller- Doppelpack,"  5,95 € ",,,Stück,  -   € 
+21,Mundwasser Spearmint 100ml Flasche,"  6,50 € ",,,Stück,  -   € 
+21,Wattestäbchen aus Bambus 100Stk.,"  1,75 € ",,,Stück,  -   € 
+21,Taschentuchbox 4-lagig; 100 Blätter,"  1,99 € ",,,Stück,  -   € 
+21,Küchenrolle 3-lagig Rolle,"  1,85 € ",,,Stück,  -   € 
+21,Toilettenpapier 3-lagig 250 Blatt Rolle,"  0,99 € ",,,Stück,  -   € 
+21,Slipeinlagen 30 Stk.,"  2,90 € ",,,Stück,  -   € 
