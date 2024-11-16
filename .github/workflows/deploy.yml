@@ -27,7 +27,7 @@ jobs:
       - name: Install dependencies (root)
         run: npm ci
       - name: Build the app (root)
-        run: npm run build
+        run: npm run ci
         env:
           GITHUB_PAGES_BASE_URL: ${{ steps.get-pages-base-url.outputs.base_path }}
       - name: Upload artifact
