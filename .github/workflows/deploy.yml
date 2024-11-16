@@ -15,12 +15,15 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Install dependencies
-        run: npm install
-      - name: Run CSV parser
+      - name: Install dependencies (csv-parser)
+        working-directory: ./csv-parser
+        run: npm ci
+      - name: Run (csv-parser)
         working-directory: ./csv-parser
         run: npm run ci
-      - name: Build the app
+      - name: Install dependencies (root)
+        run: npm ci
+      - name: Build the app (root)
         run: npm run build
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
