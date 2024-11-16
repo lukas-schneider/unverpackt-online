@@ -28,9 +28,8 @@ jobs:
         run: npm ci
       - name: Build the app (root)
         run: npm run build
-        with:
-          env:
-            BASE_URL: ${{ steps.get-pages-base-url.outputs.base_url }}
+        env:
+          BASE_URL: ${{ steps.get-pages-base-url.outputs.base_url }}
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
